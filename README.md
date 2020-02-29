@@ -38,7 +38,7 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 ### Executando o Robô
 
 **Descrição:** Ao informar a data de **checkin** e a data de **checkout** o robô irá extrair os dados do motor de reservas e retornar uma resposta com as opções encontradas. <br />
-**Rota:** ```http://localhost:3333/buscar``` <br />
+**Rota POST:** ```http://localhost:3333/buscar``` <br />
 **Body:**
 <pre>
   {
