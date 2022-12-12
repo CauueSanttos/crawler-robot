@@ -17,7 +17,7 @@
     "sucrase": "^3.12.1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "puppeteer": "^2.1.1",
     "yup": "^0.28.1"
   }
